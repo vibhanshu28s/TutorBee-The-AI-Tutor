@@ -1,2 +1,3 @@
 .vnv
 database/.env
+__pycache__

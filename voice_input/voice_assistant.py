@@ -17,3 +17,6 @@ def listen_to_voice():
                 print("Could not understand audio")
             except sr.RequestError:
                 print("API unavailable")
+
+
+# open the database and push the data into database
